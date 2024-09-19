@@ -1,0 +1,19 @@
+div#banner{
+    background-color: grey;
+    transform: skew(-10deg,0deg) rotate(-10deg);
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;}
+#circle{
+    width: 150px;
+    height: 150px;
+    background-color: red;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    img{
+        border-radius: 50%;
+    }
+}
+
